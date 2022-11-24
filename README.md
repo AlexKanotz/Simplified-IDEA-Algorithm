@@ -1,0 +1,1 @@
+# Simplified-IDEA-Algorithm
